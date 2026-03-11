@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "free": {
+      "version_code": 29,
+      "version_name": "1.0.29",
+      "apk_url": "",
+      "force_update": false
+    },
+    "pro": {
+      "version_code": 29,
+      "version_name": "1.0.29-PRO",
+      "apk_url": "",
+      "force_update": false
+    }
+  }
+}
